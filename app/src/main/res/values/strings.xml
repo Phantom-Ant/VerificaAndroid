@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VerificaAndroid</string>
+    <string name="title">Registro attività</string>
+    <string name="btnStart">Inizia</string>
+    <string name="etxt_activity_hint">Nome attività</string>
+    <string name="btnAddActivity">Registra Attività</string>
+</resources>
